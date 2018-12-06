@@ -1,0 +1,14 @@
+body{
+color:grey;
+}
+
+div{
+margin:auto;
+width:500px;
+text-align:centre;
+}
+
+blockquote{
+border : 2px solid grey;
+text-align:centre;
+}
